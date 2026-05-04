@@ -16,3 +16,4 @@ FROM (
 GROUP BY (1)
 ORDER BY count DESC,tag
 LIMIT 1000;
+
